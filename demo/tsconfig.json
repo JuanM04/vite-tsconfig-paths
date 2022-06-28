@@ -5,6 +5,8 @@
     "esModuleInterop": true,
     "allowJs": true,
     "checkJs": true,
+    "moduleResolution": "nodenext",
+    "module": "nodenext",
     "jsx": "react-jsx",
     "lib": ["dom", "es2018"],
     "baseUrl": ".",
